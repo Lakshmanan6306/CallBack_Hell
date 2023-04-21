@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 0, 111);
+    color: rgb(18, 19, 20);
+}
+.child{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 0, 111);
+    color: rgb(18, 19, 20);
+}
